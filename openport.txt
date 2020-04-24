@@ -1,0 +1,6 @@
+INFO - creating private key file: /root/.openport/id_rsa
+INFO - creating private key file: /root/.openport/id_rsa
+INFO - creating public key file: /root/.openport/id_rsa.pub
+INFO - creating public key file: /root/.openport/id_rsa.pub
+INFO - got signal 2, exiting...
+INFO - got signal 2, exiting...
